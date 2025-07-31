@@ -57,7 +57,7 @@ const AboutSection = () => {
                 <div className="text-sm text-muted-foreground">Years Coding</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary mb-2">2+</div>
+                <div className="text-3xl font-bold text-primary mb-2">10+</div>
                 <div className="text-sm text-muted-foreground">Projects Built</div>
               </div>
             </div>
